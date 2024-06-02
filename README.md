@@ -1,7 +1,7 @@
 bspwm polybar
 
-![Deja una estrella. Comparte.](https://github.com/Mnvim/dotfiles-bspwm/blob/master/images/54.png)
+![Deja una estrella. Comparte.](https://github.com/Mnvim/dotfiles-bspwm/blob/main/images/54.png)
 
 tmux
 
-![Deja una estrella. Comparte.](https://github.com/Mnvim/dotfiles-bspwm/blob/master/images/tmux.png)
+![Deja una estrella. Comparte.](https://github.com/Mnvim/dotfiles-bspwm/blob/main/images/tmux.png)
